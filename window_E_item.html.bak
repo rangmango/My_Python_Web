@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>CH's Web</title>
+    <link href="Pythonweb.css" rel="stylesheet">
+    <h1>윈도우 포맷 후 필수 설치파일</h1>
+</head>
+<body>
+    <ol>
+      <h2><li>드라이버</li></h2>
+      <h2><li>필수템</li></h2>
+      <h2><li>내가 필요한것</li></h2>
+    </ol>
+</body>
+</html>
